@@ -1,0 +1,24 @@
+5.3g/in of 1/4 20 threaded rods
+- 150g of threaded rod
+20g per battery - total of 40g
+100g for sled
+2.5g per screw - 15g of screws per coupler
+50g/u bolt - 2 avbay, 1 booster, 1 payload
+RRC3: 17.1g
+EasyMini: 7g
+
+Avbay Mass Estimate:
+Housing: Density of Al via ork +
+Altimeters: 24g +
+U-bolts: 100g
+Screws: 15g +
+Threaded Rod: 150g +
+Sled: 100g +
+Batteries: 40g +
+Wirirng: 60g +
+
+GPS Mass Estimates:
+Battery: 20g +
+Wirirng: 10g +
+EggFinder TX: 25g +
+RunCam2: 50g +
