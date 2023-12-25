@@ -136,7 +136,7 @@
     <RodAngle>10</RodAngle>
     <RodLength>10</RodLength>
     <Temperature>74</Temperature>
-    <WindSpeed>10</WindSpeed>
+    <WindSpeed>20</WindSpeed>
   </LaunchSite>
   <Recovery>
     <Altitude1>1000</Altitude1>
@@ -172,9 +172,9 @@
       <Booster2NozzleDiameter>0</Booster2NozzleDiameter>
       <IncludeBooster2>False</IncludeBooster2>
       <FlightTime>0</FlightTime>
-      <TimetoApogee>16.65029</TimetoApogee>
-      <MaxAltitude>4277.184</MaxAltitude>
-      <MaxVelocity>591.0948</MaxVelocity>
+      <TimetoApogee>16.11027</TimetoApogee>
+      <MaxAltitude>4017.557</MaxAltitude>
+      <MaxVelocity>596.4692</MaxVelocity>
       <OptimumWt>0</OptimumWt>
       <OptimumMaxAlt>0</OptimumMaxAlt>
     </Simulation>
