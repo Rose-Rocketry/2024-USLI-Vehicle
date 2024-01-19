@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="650mm"
+   height="297mm"
+   viewBox="0 0 650 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="MassCreep.svg"
+   inkscape:export-filename="MassCreep.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.5"
+     inkscape:cx="829"
+     inkscape:cy="465"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="949.6444"
+       y="526.08744"
+       width="220.61731"
+       height="107.44782"
+       id="rect8" />
+    <rect
+       x="1038"
+       y="758"
+       width="300"
+       height="72"
+       id="rect7" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <rect
+       x="70.910065"
+       y="52.848068"
+       width="250.19209"
+       height="192.6613"
+       id="rect2" />
+    <rect
+       x="70.910065"
+       y="52.848068"
+       width="250.19209"
+       height="192.6613"
+       id="rect2-7" />
+    <rect
+       x="70.910065"
+       y="52.848068"
+       width="235.05519"
+       height="196.44553"
+       id="rect2-2" />
+    <rect
+       x="70.910065"
+       y="52.848068"
+       width="250.19209"
+       height="192.6613"
+       id="rect2-5" />
+    <rect
+       x="70.910065"
+       y="52.848068"
+       width="250.19209"
+       height="192.6613"
+       id="rect2-9" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect3-6"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <rect
+       x="70.910065"
+       y="52.848068"
+       width="250.19209"
+       height="192.6613"
+       id="rect2-9-6" />
+    <rect
+       x="70.910065"
+       y="52.848068"
+       width="250.19209"
+       height="192.6613"
+       id="rect2-9-6-3" />
+    <rect
+       x="70.910065"
+       y="52.848068"
+       width="250.19209"
+       height="192.6613"
+       id="rect2-9-6-3-1" />
+    <rect
+       x="70.910065"
+       y="52.848068"
+       width="250.19209"
+       height="192.6613"
+       id="rect2-9-6-8" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:0.137926"
+       id="rect1"
+       width="66.196663"
+       height="50.974968"
+       x="18.761621"
+       y="13.982718" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.30585452,4.1814212)"
+       id="text1"
+       style="font-weight:bold;font-size:32px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.377953"><tspan
+         x="83.958984"
+         y="77.671798"
+         id="tspan1">Design vehicle </tspan><tspan
+         x="125.77148"
+         y="109.6718"
+         id="tspan2">based on </tspan><tspan
+         x="102.6543"
+         y="141.6718"
+         id="tspan3">payload and </tspan><tspan
+         x="141.74805"
+         y="173.6718"
+         id="tspan4">vehicle </tspan><tspan
+         x="94.638672"
+         y="205.6718"
+         id="tspan5">requirements</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:0.137926"
+       id="rect1-9"
+       width="66.196663"
+       height="50.974968"
+       x="124.09067"
+       y="13.982718" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,105.02319,8.4147545)"
+       id="text1-7"
+       style="font-weight:bold;font-size:32px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect2-7);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.377953"><tspan
+         x="95.521484"
+         y="77.671798"
+         id="tspan6">Determine all </tspan><tspan
+         x="131.99023"
+         y="109.6718"
+         id="tspan9">required </tspan><tspan
+         x="138.2168"
+         y="141.6718"
+         id="tspan10">internal </tspan><tspan
+         x="100.88867"
+         y="173.6718"
+         id="tspan11">components</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:0.137926"
+       id="rect1-0"
+       width="66.196663"
+       height="50.974968"
+       x="229.41971"
+       y="13.982718" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,212.68956,8.4147545)"
+       id="text1-8"
+       style="font-weight:bold;font-size:32px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect2-2);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.377953"><tspan
+         x="110.1875"
+         y="77.671798"
+         id="tspan12">Determine </tspan><tspan
+         x="105.73438"
+         y="109.6718"
+         id="tspan13">mass of all </tspan><tspan
+         x="130.64844"
+         y="141.6718"
+         id="tspan14">internal </tspan><tspan
+         x="93.320312"
+         y="173.6718"
+         id="tspan15">components</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:0.137926"
+       id="rect1-02"
+       width="66.196663"
+       height="50.974968"
+       x="334.74875"
+       y="13.982718" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,315.8115,0.73356972)"
+       id="text1-3"
+       style="font-weight:bold;font-size:32px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect2-5);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.377953"><tspan
+         x="102.66992"
+         y="77.671798"
+         id="tspan16">Add internal </tspan><tspan
+         x="81.341797"
+         y="109.6718"
+         id="tspan17">components to </tspan><tspan
+         x="85.740234"
+         y="141.6718"
+         id="tspan18">vehicle design </tspan><tspan
+         x="123.0918"
+         y="173.6718"
+         id="tspan19">in correct </tspan><tspan
+         x="89.333984"
+         y="205.6718"
+         id="tspan20">locations with </tspan><tspan
+         x="155.08398"
+         y="237.6718"
+         id="tspan21">mass</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:0.137926"
+       id="rect1-1"
+       width="66.196663"
+       height="50.974968"
+       x="18.761621"
+       y="142.13539" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.20043758,140.74496)"
+       id="text1-30"
+       style="font-weight:bold;font-size:32px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect2-9);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.377953"><tspan
+         x="120.43555"
+         y="77.671798"
+         id="tspan22">Add Mass </tspan><tspan
+         x="102.66211"
+         y="109.6718"
+         id="tspan23">Creep to the </tspan><tspan
+         x="144.44336"
+         y="141.6718"
+         id="tspan24">design</tspan></text>
+    <path
+       id="path4"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="M 109.81345 31.227551 L 109.33958 32.04869 L 121.25306 38.926823 L 84.958122 38.926823 L 84.958122 39.470459 L 84.958122 40.013578 L 121.2541 40.013578 L 109.33958 46.892228 L 109.81345 47.713367 L 124.09062 39.470459 L 109.81345 31.227551 z " />
+    <path
+       id="path4-7"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 215.14254,31.227295 -0.47387,0.821139 11.91348,6.878133 h -36.29494 v 0.543636 0.543119 h 36.29598 l -11.91452,6.87865 0.47387,0.821139 14.27717,-8.242908 z" />
+    <path
+       id="path4-5"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 320.47158,31.227295 -0.47387,0.821139 11.91348,6.878133 h -36.29494 v 0.543636 0.543119 h 36.29598 l -11.91452,6.87865 0.47387,0.821139 14.27717,-8.242908 z" />
+    <path
+       id="path4-9"
+       style="fill:#139400;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 320.47172,159.37996 -0.47387,0.82114 11.91348,6.87813 h -36.29494 v 0.54364 0.54312 h 36.29598 l -11.91452,6.87865 0.47387,0.82114 14.27717,-8.24291 z" />
+    <rect
+       style="fill:#000000;stroke-width:0.137926"
+       id="rect1-1-9"
+       width="66.196663"
+       height="50.974968"
+       x="124.09076"
+       y="142.13539" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,105.05016,133.17125)"
+       id="text1-30-9"
+       style="font-weight:bold;font-size:32px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect2-9-6);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.377953"><tspan
+         x="103.53711"
+         y="77.671798"
+         id="tspan25">Determine if </tspan><tspan
+         x="107.09961"
+         y="109.6718"
+         id="tspan26">changes to  </tspan><tspan
+         x="103.49023"
+         y="141.6718"
+         id="tspan27">systems are </tspan><tspan
+         x="91.990234"
+         y="173.6718"
+         id="tspan28">required from </tspan><tspan
+         x="119.52148"
+         y="205.6718"
+         id="tspan29">new mass</tspan></text>
+    <path
+       id="path4-9-7"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 109.81363,159.37998 -0.47387,0.82114 11.91348,6.87813 H 84.958287 v 0.54364 0.54312 h 36.295993 l -11.91452,6.87865 0.47387,0.82113 14.27717,-8.2429 z" />
+    <path
+       id="path4-9-3"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 43.617045,127.85823 0.82114,-0.47387 6.87813,11.91348 V 103.0029 h 0.54364 0.54312 v 36.29598 l 6.87865,-11.91452 0.82114,0.47387 -8.24291,14.27717 z" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.43128;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="1.0872874"
+       height="315.44348"
+       x="-104.09019"
+       y="51.859955"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.61741;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4-3"
+       width="1.0872874"
+       height="39.1325"
+       x="367.30344"
+       y="64.957687" />
+    <rect
+       style="fill:#000000;stroke-width:0.137926"
+       id="rect1-02-5-7"
+       width="66.196663"
+       height="50.974968"
+       x="334.7489"
+       y="142.13539" />
+    <path
+       id="path4-9-3-3"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 254.27516,217.96568 0.82114,-0.47387 6.87813,11.91348 v -36.29494 h 0.54364 0.54312 v 36.29598 l 6.87865,-11.91452 0.82114,0.47387 -8.24291,14.27717 z" />
+    <rect
+       style="fill:#000000;stroke-width:0.137926"
+       id="rect1-1-9-3-9"
+       width="66.196663"
+       height="50.974968"
+       x="229.41974"
+       y="232.24284" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,210.65819,235.14155)"
+       id="text1-30-9-7-4"
+       style="font-weight:bold;font-size:32px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect2-9-6-3-1);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.377953"><tspan
+         x="83.998047"
+         y="77.671798"
+         id="tspan30">Add or change </tspan><tspan
+         x="100.88867"
+         y="109.6718"
+         id="tspan31">components</tspan></text>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.40556;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6"
+       width="1.0862298"
+       height="24.944368"
+       x="261.97495"
+       y="168.16599" />
+    <rect
+       style="fill:#139400;fill-opacity:1;stroke:none;stroke-width:0.463318;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6-5"
+       width="1.0862298"
+       height="32.555218"
+       x="167.07976"
+       y="-295.61639"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.5685;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4-1"
+       width="1.0867686"
+       height="72.773758"
+       x="-168.16599"
+       y="190.28741"
+       transform="rotate(-90)" />
+    <path
+       id="path4-9-3-3-6"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-dasharray:none;stroke-opacity:1"
+       d="m 165.432,207.38752 -0.82114,0.47387 -6.87813,-11.91348 v 36.29494 h -0.54364 -0.54312 v -36.29598 l -6.87865,11.91452 -0.82114,-0.47387 8.24291,-14.27717 z" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:3.56851;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4-1-4"
+       width="1.0867686"
+       height="72.774033"
+       x="-258.27371"
+       y="156.64571"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:2.13424;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4-1-4-0"
+       width="1.0867686"
+       height="26.030869"
+       x="156.64571"
+       y="232.24284" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,315.67522,145.81958)"
+       id="text1-30-9-6"
+       style="font-weight:bold;font-size:32px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect2-9-6-8);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.377953"><tspan
+         x="114.20117"
+         y="77.671798"
+         id="tspan32">Final Mass </tspan><tspan
+         x="129.31055"
+         y="109.6718"
+         id="tspan33">Estimate</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-29.433992,-7.8479034)"
+       id="text6"
+       style="font-weight:bold;font-size:32px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="1120.4297"
+         y="782.82414"
+         id="tspan34">Changes&#10;</tspan><tspan
+         x="1118.6562"
+         y="814.82414"
+         id="tspan35">Required</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,15.060913,10.102788)"
+       id="text7"
+       style="font-weight:bold;font-size:32px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;white-space:pre;shape-inside:url(#rect8);display:inline;fill:#139400;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="966.60938"
+         y="550.91203"
+         id="tspan36">No Changes&#10;</tspan><tspan
+         x="990.60938"
+         y="582.91203"
+         id="tspan37">Required</tspan></text>
+  </g>
+</svg>
